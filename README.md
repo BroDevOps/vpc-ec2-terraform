@@ -20,15 +20,22 @@ sudo apt-get install terraform
 
 
 
+
+
 **Verify Dry Run 
 **
+
 
 
 terraform plan
 terraform validate
 
+
+
+
 **Execution
 **
+
 
 
 terraform apply
